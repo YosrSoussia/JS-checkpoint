@@ -1,0 +1,15 @@
+.bouton{
+	color: grey;
+	background-color: white;
+	border-radius: 1px;
+	padding: 10px 15px;
+}
+.bold {
+	font-weight: bold;
+  }
+.italic {
+	font-style: italic;
+  }
+.underline {
+	text-decoration: underline;
+	}
